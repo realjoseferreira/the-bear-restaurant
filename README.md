@@ -139,4 +139,4 @@ This is an unofficial fan-made concept created for portfolio and design demonstr
 
 ## Developed By
 
-Developed by [José Ferreira/Sick Code](https://www.sickcode.com.br).
+Developed by José Ferreira
